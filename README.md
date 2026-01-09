@@ -33,11 +33,6 @@ User Browser → Public IP → AWS EC2 Instance → Apache Web Server → Web Ap
 
 ---
 
-## 📷 Output
-(Add screenshots of your running website and EC2 instance here)
-
----
-
 ## 🧠 Key Learnings
 - Hands-on experience with AWS EC2
 - Linux server management
